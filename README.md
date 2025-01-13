@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/wnihar04" target="blank"><img src="https://img.shields.io/twitter/follow/wnihar04?logo=twitter&style=for-the-badge" alt="wnihar04" /></a> </p>
 
-- 🌱 I’m currently learning **GraphQL**
+- 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **Android, MERN**
+- 💬 Ask me about **AI, Machine Learning, Frontend Development**
 
 - 📫 How to reach me **wnihar04@gmail.com**
 
